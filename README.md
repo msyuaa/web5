@@ -1,2 +1,2 @@
 # web5
-Translator
+Translator on github.io
